@@ -1,0 +1,11 @@
+{
+    "DEV_AZURE_WEST" : 
+    {
+        "CONFIG_FILE" :"config/tero_edl_ingest.json",
+        "CONTROL_TABLE":"control/INGEST.csv",
+        "TGT_CON_NAME":"DB01_SF",
+        "DEFAULT_WH":"COMPUTE_WH",
+        "DEFAULT_DB":"OYO",
+        "DEFAULT_SCHEMA":"USERS"
+    }
+}

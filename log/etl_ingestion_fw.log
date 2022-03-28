@@ -1,0 +1,1609 @@
+03:02:35 : successfully opened config file
+03:02:35 : error parsing the config file
+03:02:35 : connected
+03:02:58 : successfully opened config file
+03:02:58 : error parsing the config file
+03:02:58 : connected
+
+03:05:17 : successfully opened config file
+03:05:17 : error parsing the config file
+03:05:17 : connected
+03:06:30 : successfully opened config file
+03:06:30 : connected
+03:06:54 : successfully opened config file
+03:06:54 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+03:06:54 : connected
+03:10:22 : successfully opened config file
+03:10:22 : error parsing the config file
+03:10:22 : connected
+03:11:18 : successfully opened config file
+03:11:18 : error parsing the config file
+03:12:26 : successfully opened config file
+03:12:26 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+03:13:33 : successfully opened config file
+03:13:33 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+03:13:33 : snowflake
+03:13:33 : connected
+03:15:41 : successfully opened config file
+03:15:41 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+03:15:41 : dbType = snowflake
+03:15:41 : connected
+03:17:59 : successfully opened config file
+03:17:59 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+03:19:23 : successfully opened config file
+03:19:23 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+03:19:23 : dbType = snowflake
+03:19:23 : connected
+03:22:42 : successfully opened config file
+03:22:42 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+03:22:42 : dbType = snowflake
+03:22:44 : 6.7.0
+03:22:44 : connected
+03:24:51 : successfully opened config file
+03:24:51 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+03:24:51 : dbType = snowflake
+03:24:52 : snowflake version = 6.7.0
+03:24:52 : connected
+03:28:28 : successfully opened config file
+03:28:28 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+03:28:28 : dbType = snowflake
+03:28:29 : snowflake version = 6.7.0
+03:29:33 : successfully opened config file
+03:29:33 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+03:29:33 : dbType = snowflake
+03:29:34 : snowflake version = 6.7.0
+03:30:30 : successfully opened config file
+03:30:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+03:30:30 : dbType = snowflake
+03:30:31 : snowflake version = 6.7.0
+01:42:21 : successfully opened config file
+01:42:21 : {'dbName': 'DB02_SF', 'dbType': 'snowflake', 'auth': {'user': 'AKASH_INGESTION_FRAMEWORK', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+01:42:21 : dbType = snowflake
+01:42:23 : snowflake version = 6.7.1
+01:43:03 : successfully opened config file
+01:43:03 : {'dbName': 'DB02_SF', 'dbType': 'snowflake', 'auth': {'user': 'AKASH_INGESTION_FRAMEWORK', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+01:43:03 : dbType = snowflake
+01:43:05 : snowflake version = 6.7.1
+02:20:50 : successfully opened config file
+02:20:50 : {'dbName': 'DB02_SF', 'dbType': 'snowflake', 'auth': {'user': 'AKASH_INGESTION_FRAMEWORK', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:20:50 : dbType = snowflake
+02:20:52 : snowflake version = 6.7.1
+02:23:02 : successfully opened config file
+02:23:02 : {'dbName': 'DB02_SF', 'dbType': 'snowflake', 'auth': {'user': 'AKASH_INGESTION_FRAMEWORK', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:23:02 : dbType = snowflake
+02:23:03 : snowflake version = 6.7.1
+02:23:57 : successfully opened config file
+02:23:57 : {'dbName': 'DB02_SF', 'dbType': 'snowflake', 'auth': {'user': 'AKASH_INGESTION_FRAMEWORK', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:23:57 : dbType = snowflake
+02:23:58 : snowflake version = 6.7.1
+02:25:08 : successfully opened config file
+02:25:08 : {'dbName': 'DB02_SF', 'dbType': 'snowflake', 'auth': {'user': 'AKASH_INGESTION_FRAMEWORK', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:25:08 : dbType = snowflake
+02:25:10 : snowflake version = 6.7.1
+02:25:15 : successfully opened config file
+02:25:15 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:25:15 : dbType = snowflake
+02:25:18 : snowflake version = 6.7.1
+02:25:28 : successfully opened config file
+02:25:28 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:25:28 : dbType = snowflake
+02:25:29 : snowflake version = 6.7.1
+02:25:38 : successfully opened config file
+02:25:38 : {'dbName': 'DB02_SF', 'dbType': 'snowflake', 'auth': {'user': 'AKASH_INGESTION_FRAMEWORK', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:25:38 : dbType = snowflake
+02:25:40 : snowflake version = 6.7.1
+02:27:02 : successfully opened config file
+02:27:02 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:27:02 : dbType = snowflake
+02:27:03 : snowflake version = 6.7.1
+02:27:07 : successfully opened config file
+02:27:07 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:27:07 : dbType = snowflake
+02:27:09 : snowflake version = 6.7.1
+02:36:41 : successfully opened config file
+02:36:41 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:36:41 : dbType = snowflake
+02:36:42 : snowflake version = 6.7.1
+02:37:08 : successfully opened config file
+02:37:08 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:37:08 : dbType = snowflake
+02:37:10 : snowflake version = 6.7.1
+02:37:49 : successfully opened config file
+02:37:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:37:49 : dbType = snowflake
+02:37:50 : snowflake version = 6.7.1
+02:38:59 : successfully opened config file
+02:38:59 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws'}}
+02:38:59 : dbType = snowflake
+02:39:00 : snowflake version = 6.7.1
+23:21:18 : successfully opened config file
+23:21:18 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+23:21:18 : dbType = snowflake
+23:21:22 : snowflake version = 6.8.1
+23:21:37 : successfully opened config file
+23:21:37 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+23:21:37 : dbType = snowflake
+23:21:38 : snowflake version = 6.8.1
+00:39:44 : successfully opened config file
+00:39:44 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:39:44 : dbType = snowflake
+00:39:45 : snowflake version = 6.8.1
+00:41:07 : successfully opened config file
+00:41:07 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:41:07 : dbType = snowflake
+00:41:08 : snowflake version = 6.8.1
+00:46:55 : successfully opened config file
+00:46:55 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:46:55 : dbType = snowflake
+00:46:56 : snowflake version = 6.8.1
+00:47:20 : successfully opened config file
+00:47:20 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:47:20 : dbType = snowflake
+00:47:20 : snowflake version = 6.8.1
+00:53:19 : successfully opened config file
+00:53:19 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:53:19 : dbType = snowflake
+00:53:20 : snowflake version = 6.8.1
+01:44:32 : successfully opened config file
+01:44:32 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:44:32 : dbType = snowflake
+01:44:33 : snowflake version = 6.8.1
+01:45:52 : successfully opened config file
+01:45:52 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:45:52 : dbType = snowflake
+01:45:53 : snowflake version = 6.8.1
+01:49:44 : successfully opened config file
+01:49:44 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:49:44 : dbType = snowflake
+01:49:45 : snowflake version = 6.8.1
+01:50:15 : successfully opened config file
+01:50:15 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:50:15 : dbType = snowflake
+01:50:16 : snowflake version = 6.8.1
+01:51:43 : successfully opened config file
+01:51:43 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:51:43 : dbType = snowflake
+01:51:44 : snowflake version = 6.8.1
+01:45:31 : successfully opened config file
+01:45:31 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:45:31 : dbType = snowflake
+01:45:33 : snowflake version = 6.8.1
+01:50:46 : successfully opened config file
+01:50:46 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:50:46 : dbType = snowflake
+01:50:48 : snowflake version = 6.8.1
+01:52:59 : successfully opened config file
+01:52:59 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:52:59 : dbType = snowflake
+01:53:01 : snowflake version = 6.8.1
+01:55:50 : successfully opened config file
+01:55:50 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:55:50 : dbType = snowflake
+01:55:52 : snowflake version = 6.8.1
+01:59:38 : successfully opened config file
+01:59:38 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:59:38 : dbType = snowflake
+01:59:40 : snowflake version = 6.8.1
+02:34:36 : successfully opened config file
+02:34:36 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:34:36 : dbType = snowflake
+02:34:38 : snowflake version = 6.8.1
+02:41:50 : successfully opened config file
+02:41:50 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:41:50 : dbType = snowflake
+02:41:52 : snowflake version = 6.8.1
+02:42:19 : successfully opened config file
+02:42:19 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:42:19 : dbType = snowflake
+02:42:21 : snowflake version = 6.8.1
+02:43:11 : successfully opened config file
+02:43:11 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:43:11 : dbType = snowflake
+02:43:13 : snowflake version = 6.8.1
+02:43:24 : successfully opened config file
+02:43:24 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:43:24 : dbType = snowflake
+02:43:26 : snowflake version = 6.8.1
+02:47:30 : successfully opened config file
+02:47:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:47:30 : dbType = snowflake
+02:47:32 : snowflake version = 6.8.1
+03:14:30 : successfully opened config file
+03:14:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+03:14:30 : dbType = snowflake
+03:14:31 : snowflake version = 6.8.1
+03:18:01 : successfully opened config file
+03:18:01 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+03:18:01 : dbType = snowflake
+03:18:02 : snowflake version = 6.8.1
+00:38:13 : successfully opened config file
+00:38:13 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:38:13 : dbType = snowflake
+00:38:16 : snowflake version = 6.9.0
+01:39:56 : successfully opened config file
+01:39:56 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:39:56 : dbType = snowflake
+01:40:00 : snowflake version = 6.9.0
+02:24:57 : successfully opened config file
+02:24:57 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:24:57 : dbType = snowflake
+02:25:00 : snowflake version = 6.9.0
+02:27:53 : successfully opened config file
+02:27:53 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:27:53 : dbType = snowflake
+02:27:56 : snowflake version = 6.9.0
+02:28:51 : successfully opened config file
+02:28:51 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:28:51 : dbType = snowflake
+02:28:52 : snowflake version = 6.9.0
+02:30:24 : successfully opened config file
+02:30:24 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:30:24 : dbType = snowflake
+02:30:25 : snowflake version = 6.9.0
+02:32:33 : successfully opened config file
+02:32:33 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:32:33 : dbType = snowflake
+02:32:34 : snowflake version = 6.9.0
+02:33:57 : successfully opened config file
+02:33:57 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:33:57 : dbType = snowflake
+02:33:59 : snowflake version = 6.9.0
+19:21:59 : successfully opened config file
+19:21:59 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+19:21:59 : dbType = snowflake
+19:22:02 : snowflake version = 6.9.0
+19:28:04 : successfully opened config file
+19:28:04 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+19:28:04 : dbType = snowflake
+19:28:06 : snowflake version = 6.9.0
+19:28:31 : successfully opened config file
+19:28:31 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+19:28:31 : dbType = snowflake
+19:28:33 : snowflake version = 6.9.0
+19:55:22 : successfully opened config file
+19:55:22 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+19:55:22 : dbType = snowflake
+19:55:26 : snowflake version = 6.9.0
+20:14:45 : successfully opened config file
+20:14:45 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:14:45 : dbType = snowflake
+20:14:47 : snowflake version = 6.9.0
+20:23:33 : successfully opened config file
+20:23:33 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:23:33 : dbType = snowflake
+20:23:35 : snowflake version = 6.9.0
+20:26:25 : successfully opened config file
+20:26:25 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:26:25 : dbType = snowflake
+20:26:30 : snowflake version = 6.9.0
+20:27:12 : successfully opened config file
+20:27:12 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:27:12 : dbType = snowflake
+20:27:14 : snowflake version = 6.9.0
+20:27:36 : successfully opened config file
+20:27:36 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:27:36 : dbType = snowflake
+20:27:38 : snowflake version = 6.9.0
+20:28:36 : successfully opened config file
+20:28:36 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:28:36 : dbType = snowflake
+20:28:38 : snowflake version = 6.9.0
+20:29:22 : successfully opened config file
+20:29:22 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:29:22 : dbType = snowflake
+20:29:24 : snowflake version = 6.9.0
+20:29:30 : successfully opened config file
+20:29:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:29:30 : dbType = snowflake
+20:29:33 : snowflake version = 6.9.0
+20:33:26 : successfully opened config file
+20:33:26 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:33:26 : dbType = snowflake
+20:33:28 : snowflake version = 6.9.0
+20:34:17 : successfully opened config file
+20:34:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:34:17 : dbType = snowflake
+20:34:19 : snowflake version = 6.9.0
+20:35:00 : successfully opened config file
+20:35:00 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:35:00 : dbType = snowflake
+20:35:02 : snowflake version = 6.9.0
+20:36:43 : successfully opened config file
+20:36:43 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:36:43 : dbType = snowflake
+20:36:45 : snowflake version = 6.9.0
+20:37:26 : successfully opened config file
+20:37:26 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:37:26 : dbType = snowflake
+20:37:27 : snowflake version = 6.9.0
+20:45:38 : successfully opened config file
+20:45:38 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:45:38 : dbType = snowflake
+20:45:39 : snowflake version = 6.9.0
+21:05:18 : successfully opened config file
+21:05:18 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:05:18 : dbType = snowflake
+21:05:20 : snowflake version = 6.9.0
+21:17:40 : successfully opened config file
+21:17:40 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:17:40 : dbType = snowflake
+21:17:42 : snowflake version = 6.9.0
+21:26:55 : successfully opened config file
+21:26:55 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:26:55 : dbType = snowflake
+21:26:57 : snowflake version = 6.9.0
+21:27:36 : successfully opened config file
+21:27:36 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:27:36 : dbType = snowflake
+21:27:39 : snowflake version = 6.9.0
+21:31:34 : successfully opened config file
+21:31:34 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:31:34 : dbType = snowflake
+21:31:35 : snowflake version = 6.9.0
+21:35:55 : successfully opened config file
+21:35:55 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:35:55 : dbType = snowflake
+21:35:57 : snowflake version = 6.9.0
+21:36:43 : successfully opened config file
+21:36:43 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:36:43 : dbType = snowflake
+21:36:47 : snowflake version = 6.9.0
+21:42:10 : successfully opened config file
+21:42:10 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:42:10 : dbType = snowflake
+21:42:11 : snowflake version = 6.9.0
+00:04:57 : successfully opened config file
+00:04:57 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:04:57 : dbType = snowflake
+00:05:00 : snowflake version = 6.9.0
+00:28:54 : successfully opened config file
+00:28:54 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:28:54 : dbType = snowflake
+00:28:57 : snowflake version = 6.9.0
+01:25:43 : successfully opened config file
+01:25:43 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:25:43 : dbType = snowflake
+01:25:45 : snowflake version = 6.9.0
+01:28:26 : successfully opened config file
+01:28:26 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:28:26 : dbType = snowflake
+01:28:27 : snowflake version = 6.9.0
+01:33:53 : successfully opened config file
+01:33:53 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:33:53 : dbType = snowflake
+01:33:54 : snowflake version = 6.9.0
+01:37:42 : successfully opened config file
+01:37:42 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:37:42 : dbType = snowflake
+01:37:44 : snowflake version = 6.9.0
+01:39:58 : successfully opened config file
+01:39:58 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:39:58 : dbType = snowflake
+01:40:00 : snowflake version = 6.9.0
+01:40:59 : successfully opened config file
+01:40:59 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:40:59 : dbType = snowflake
+01:41:00 : snowflake version = 6.9.0
+01:41:55 : successfully opened config file
+01:41:55 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:41:55 : dbType = snowflake
+01:41:59 : snowflake version = 6.9.0
+01:46:36 : successfully opened config file
+01:46:36 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:46:36 : dbType = snowflake
+01:46:37 : snowflake version = 6.9.0
+01:47:31 : successfully opened config file
+01:47:31 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:47:31 : dbType = snowflake
+01:47:32 : snowflake version = 6.9.0
+01:50:11 : successfully opened config file
+01:50:11 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:50:11 : dbType = snowflake
+01:50:19 : snowflake version = 6.9.0
+01:51:14 : successfully opened config file
+01:51:14 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:51:14 : dbType = snowflake
+01:51:15 : snowflake version = 6.9.0
+01:52:43 : successfully opened config file
+01:52:43 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:52:43 : dbType = snowflake
+01:52:45 : snowflake version = 6.9.0
+01:58:18 : successfully opened config file
+01:58:18 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:58:18 : dbType = snowflake
+01:58:19 : snowflake version = 6.9.0
+01:58:49 : successfully opened config file
+01:58:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:58:49 : dbType = snowflake
+01:58:50 : snowflake version = 6.9.0
+02:04:07 : successfully opened config file
+02:04:07 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:04:07 : dbType = snowflake
+02:04:09 : snowflake version = 6.9.0
+02:04:48 : successfully opened config file
+02:04:48 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:04:48 : dbType = snowflake
+02:04:49 : snowflake version = 6.9.0
+02:13:45 : successfully opened config file
+02:13:45 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:13:45 : dbType = snowflake
+02:13:48 : snowflake version = 6.9.0
+02:25:55 : successfully opened config file
+02:25:55 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:25:55 : dbType = snowflake
+02:25:56 : snowflake version = 6.9.0
+02:27:15 : successfully opened config file
+02:27:15 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:27:15 : dbType = snowflake
+02:27:19 : snowflake version = 6.9.0
+02:36:43 : successfully opened config file
+02:36:43 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:36:43 : dbType = snowflake
+02:36:46 : snowflake version = 6.9.0
+02:40:44 : successfully opened config file
+02:40:44 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:40:44 : dbType = snowflake
+02:40:45 : snowflake version = 6.9.0
+02:41:47 : successfully opened config file
+02:41:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:41:47 : dbType = snowflake
+02:41:48 : snowflake version = 6.9.0
+02:41:59 : successfully opened config file
+02:41:59 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:41:59 : dbType = snowflake
+02:42:01 : snowflake version = 6.9.0
+02:43:54 : successfully opened config file
+02:43:54 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:43:54 : dbType = snowflake
+02:43:58 : snowflake version = 6.9.0
+02:44:45 : successfully opened config file
+02:44:45 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:44:45 : dbType = snowflake
+02:44:55 : snowflake version = 6.9.0
+02:46:27 : successfully opened config file
+02:46:27 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:46:27 : dbType = snowflake
+02:46:29 : snowflake version = 6.9.0
+02:52:59 : successfully opened config file
+02:52:59 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:52:59 : dbType = snowflake
+02:53:01 : snowflake version = 6.9.0
+02:54:35 : successfully opened config file
+02:54:35 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:54:35 : dbType = snowflake
+02:54:44 : snowflake version = 6.9.0
+11:12:02 : successfully opened config file
+11:12:02 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:12:02 : dbType = snowflake
+11:12:03 : snowflake version = 6.9.0
+11:13:11 : successfully opened config file
+11:13:11 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:13:11 : dbType = snowflake
+11:13:12 : snowflake version = 6.9.0
+11:16:06 : successfully opened config file
+11:16:06 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:16:06 : dbType = snowflake
+11:16:07 : snowflake version = 6.9.0
+11:23:33 : successfully opened config file
+11:23:33 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:23:33 : dbType = snowflake
+11:23:34 : snowflake version = 6.9.0
+11:24:18 : successfully opened config file
+11:24:18 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:24:18 : dbType = snowflake
+11:24:19 : snowflake version = 6.9.0
+11:24:31 : successfully opened config file
+11:24:31 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:24:31 : dbType = snowflake
+11:24:33 : snowflake version = 6.9.0
+11:27:18 : successfully opened config file
+11:27:18 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:27:18 : dbType = snowflake
+11:27:19 : snowflake version = 6.9.0
+11:28:04 : successfully opened config file
+11:28:04 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:28:04 : dbType = snowflake
+11:28:05 : snowflake version = 6.9.0
+11:31:33 : successfully opened config file
+11:31:33 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:31:33 : dbType = snowflake
+11:31:35 : snowflake version = 6.9.0
+11:45:56 : successfully opened config file
+11:45:56 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:45:56 : dbType = snowflake
+11:45:57 : snowflake version = 6.9.0
+11:46:53 : successfully opened config file
+11:46:53 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:46:53 : dbType = snowflake
+11:46:55 : snowflake version = 6.9.0
+11:47:46 : successfully opened config file
+11:47:46 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:47:46 : dbType = snowflake
+11:47:52 : snowflake version = 6.9.0
+11:48:21 : successfully opened config file
+11:48:21 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+11:48:21 : dbType = snowflake
+11:48:22 : snowflake version = 6.9.0
+12:45:32 : successfully opened config file
+12:45:32 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+12:45:32 : dbType = snowflake
+12:45:35 : snowflake version = 6.9.0
+12:45:39 : successfully opened config file
+12:45:39 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+12:45:39 : dbType = snowflake
+12:45:41 : snowflake version = 6.9.0
+12:50:24 : successfully opened config file
+12:50:24 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+12:50:24 : dbType = snowflake
+12:50:26 : snowflake version = 6.9.0
+12:50:53 : successfully opened config file
+12:50:53 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+12:50:53 : dbType = snowflake
+12:50:54 : snowflake version = 6.9.0
+12:51:00 : successfully opened config file
+12:51:00 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+12:51:00 : dbType = snowflake
+12:51:02 : snowflake version = 6.9.0
+13:47:08 : successfully opened config file
+13:47:08 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+13:47:08 : dbType = snowflake
+13:47:12 : snowflake version = 6.9.0
+13:47:16 : successfully opened config file
+13:47:16 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+13:47:16 : dbType = snowflake
+13:47:18 : snowflake version = 6.9.0
+13:48:23 : successfully opened config file
+13:48:23 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+13:48:23 : dbType = snowflake
+13:48:24 : snowflake version = 6.9.0
+13:51:02 : successfully opened config file
+13:51:02 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+13:51:02 : dbType = snowflake
+13:51:04 : snowflake version = 6.9.0
+15:09:03 : successfully opened config file
+15:09:03 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+15:09:03 : dbType = snowflake
+15:09:06 : snowflake version = 6.9.0
+18:29:16 : successfully opened config file
+18:29:16 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+18:29:16 : dbType = snowflake
+18:29:21 : snowflake version = 6.9.0
+19:08:42 : successfully opened config file
+19:08:42 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+19:08:42 : dbType = snowflake
+19:08:43 : snowflake version = 6.9.0
+19:30:30 : successfully opened config file
+19:30:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+19:30:30 : dbType = snowflake
+19:30:31 : snowflake version = 6.9.0
+19:30:46 : successfully opened config file
+19:30:46 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+19:30:46 : dbType = snowflake
+19:30:48 : snowflake version = 6.9.0
+19:31:18 : successfully opened config file
+19:31:18 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+19:31:18 : dbType = snowflake
+19:31:19 : snowflake version = 6.9.0
+19:32:09 : successfully opened config file
+19:32:09 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+19:32:09 : dbType = snowflake
+19:32:12 : snowflake version = 6.9.0
+19:32:51 : successfully opened config file
+19:32:51 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+19:32:51 : dbType = snowflake
+19:32:57 : snowflake version = 6.9.0
+20:03:15 : successfully opened config file
+20:03:15 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:03:15 : dbType = snowflake
+20:03:16 : snowflake version = 6.9.0
+20:03:40 : successfully opened config file
+20:03:40 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:03:40 : dbType = snowflake
+20:03:41 : snowflake version = 6.9.0
+20:03:55 : successfully opened config file
+20:03:55 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:03:55 : dbType = snowflake
+20:03:55 : snowflake version = 6.9.0
+20:04:05 : successfully opened config file
+20:04:05 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:04:05 : dbType = snowflake
+20:04:06 : snowflake version = 6.9.0
+20:45:11 : successfully opened config file
+20:45:11 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:45:11 : dbType = snowflake
+20:45:20 : snowflake version = 6.9.0
+20:45:44 : successfully opened config file
+20:45:44 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:45:44 : dbType = snowflake
+20:45:46 : snowflake version = 6.9.0
+20:45:49 : successfully opened config file
+20:45:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:45:49 : dbType = snowflake
+20:45:49 : successfully opened config file
+20:45:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:45:49 : dbType = snowflake
+20:45:49 : snowflake version = 6.9.0
+20:45:50 : snowflake version = 6.9.0
+20:46:54 : successfully opened config file
+20:46:54 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:46:54 : dbType = snowflake
+20:46:55 : snowflake version = 6.9.0
+20:46:57 : successfully opened config file
+20:46:57 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:46:57 : dbType = snowflake
+20:46:57 : successfully opened config file
+20:46:57 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:46:57 : dbType = snowflake
+20:46:58 : snowflake version = 6.9.0
+20:46:58 : snowflake version = 6.9.0
+20:49:19 : successfully opened config file
+20:49:19 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:49:19 : dbType = snowflake
+20:49:21 : snowflake version = 6.9.0
+20:51:18 : successfully opened config file
+20:51:18 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:51:18 : dbType = snowflake
+20:51:19 : snowflake version = 6.9.0
+20:51:20 : successfully opened config file
+20:51:20 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:51:20 : dbType = snowflake
+20:51:20 : successfully opened config file
+20:51:20 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:51:20 : dbType = snowflake
+20:51:21 : snowflake version = 6.9.0
+20:51:21 : snowflake version = 6.9.0
+20:55:02 : successfully opened config file
+20:55:02 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:55:02 : dbType = snowflake
+20:55:03 : snowflake version = 6.9.0
+20:55:05 : successfully opened config file
+20:55:05 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:55:05 : dbType = snowflake
+20:55:05 : successfully opened config file
+20:55:05 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:55:05 : dbType = snowflake
+20:55:06 : snowflake version = 6.9.0
+20:55:06 : snowflake version = 6.9.0
+20:55:56 : successfully opened config file
+20:55:56 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:55:56 : dbType = snowflake
+20:55:57 : snowflake version = 6.9.0
+20:55:59 : successfully opened config file
+20:55:59 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:55:59 : dbType = snowflake
+20:55:59 : successfully opened config file
+20:55:59 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:55:59 : dbType = snowflake
+20:55:59 : snowflake version = 6.9.0
+20:56:00 : snowflake version = 6.9.0
+20:56:49 : successfully opened config file
+20:56:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:56:49 : dbType = snowflake
+20:56:50 : snowflake version = 6.9.0
+20:56:53 : successfully opened config file
+20:56:53 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:56:53 : dbType = snowflake
+20:56:53 : successfully opened config file
+20:56:53 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:56:53 : dbType = snowflake
+20:56:54 : successfully opened config file
+20:56:54 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:56:54 : dbType = snowflake
+20:56:54 : successfully opened config file
+20:56:54 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:56:54 : dbType = snowflake
+20:56:54 : successfully opened config file
+20:56:54 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:56:54 : dbType = snowflake
+20:56:54 : successfully opened config file
+20:56:54 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+20:56:54 : dbType = snowflake
+20:56:54 : snowflake version = 6.9.0
+20:56:54 : snowflake version = 6.9.0
+20:56:54 : snowflake version = 6.9.0
+20:56:54 : snowflake version = 6.9.0
+20:56:54 : snowflake version = 6.9.0
+20:56:54 : snowflake version = 6.9.0
+21:02:19 : successfully opened config file
+21:02:19 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:19 : dbType = snowflake
+21:02:19 : snowflake version = 6.9.0
+21:02:23 : successfully opened config file
+21:02:23 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:23 : dbType = snowflake
+21:02:23 : successfully opened config file
+21:02:23 : successfully opened config file
+21:02:23 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:23 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:23 : dbType = snowflake
+21:02:23 : successfully opened config file
+21:02:23 : successfully opened config file
+21:02:23 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:23 : dbType = snowflake
+21:02:23 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:23 : dbType = snowflake
+21:02:23 : successfully opened config file
+21:02:23 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:23 : dbType = snowflake
+21:02:23 : snowflake version = 6.9.0
+21:02:23 : snowflake version = 6.9.0
+21:02:23 : snowflake version = 6.9.0
+21:02:24 : snowflake version = 6.9.0
+21:02:40 : successfully opened config file
+21:02:40 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:40 : dbType = snowflake
+21:02:40 : snowflake version = 6.9.0
+21:02:49 : successfully opened config file
+21:02:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:49 : successfully opened config file
+21:02:49 : dbType = snowflaked config file
+21:02:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:49 : successfully opened config file
+21:02:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:49 : dbType = snowflake
+21:02:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:49 : dbType = snowflake
+21:02:49 : dbType = snowflake
+21:02:49 : dbType = snowflake
+21:02:49 : successfully opened config file
+21:02:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:02:49 : dbType = snowflake
+21:02:50 : snowflake version = 6.9.0
+21:02:50 : snowflake version = 6.9.0
+21:02:50 : snowflake version = 6.9.0
+21:02:50 : snowflake version = 6.9.0
+21:02:50 : snowflake version = 6.9.0
+21:02:50 : snowflake version = 6.9.0
+21:03:33 : successfully opened config file
+21:03:33 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:03:33 : dbType = snowflake
+21:03:34 : snowflake version = 6.9.0
+21:03:37 : successfully opened config file
+21:03:37 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:03:37 : successfully opened config file
+21:03:37 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:03:37 : dbType = snowflake
+21:03:37 : successfully opened config file
+21:03:37 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:03:37 : dbType = snowflake
+21:03:37 : successfully opened config file
+21:03:37 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:03:37 : dbType = snowflake
+21:03:37 : successfully opened config file
+21:03:37 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:03:37 : dbType = snowflake
+21:03:38 : snowflake version = 6.9.0
+21:03:38 : snowflake version = 6.9.0
+21:03:38 : snowflake version = 6.9.0
+21:03:38 : snowflake version = 6.9.0
+21:03:38 : snowflake version = 6.9.0
+21:07:13 : successfully opened config file
+21:07:13 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:07:13 : dbType = snowflake
+21:07:14 : snowflake version = 6.9.0
+21:07:17 : successfully opened config file
+21:07:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:07:17 : dbType = snowflake
+21:07:17 : successfully opened config file
+21:07:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:07:17 : dbType = snowflake
+21:07:17 : successfully opened config file
+21:07:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:07:17 : successfully opened config file
+21:07:17 : dbType = snowflake
+21:07:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:07:17 : dbType = snowflake
+21:07:17 : successfully opened config file
+21:07:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:07:17 : dbType = snowflake
+21:07:17 : snowflake version = 6.9.0
+21:07:18 : snowflake version = 6.9.0
+21:07:18 : snowflake version = 6.9.0
+21:07:18 : snowflake version = 6.9.0
+21:07:18 : snowflake version = 6.9.0
+21:09:23 : successfully opened config file
+21:09:23 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:23 : dbType = snowflake
+21:09:23 : snowflake version = 6.9.0
+21:09:26 : successfully opened config file
+21:09:26 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:26 : dbType = snowflake
+21:09:26 : successfully opened config file
+21:09:26 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:26 : dbType = snowflake
+21:09:26 : successfully opened config file
+21:09:26 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:26 : dbType = snowflake
+21:09:26 : successfully opened config file
+21:09:26 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:26 : dbType = snowflake
+21:09:26 : successfully opened config file
+21:09:26 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:26 : dbType = snowflake
+21:09:27 : snowflake version = 6.9.0
+21:09:27 : snowflake version = 6.9.0
+21:09:27 : snowflake version = 6.9.0
+21:09:27 : snowflake version = 6.9.0
+21:09:27 : snowflake version = 6.9.0
+21:09:30 : successfully opened config file
+21:09:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:30 : dbType = snowflake
+21:09:30 : successfully opened config file
+21:09:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:30 : dbType = snowflake
+21:09:30 : successfully opened config file
+21:09:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:30 : dbType = snowflake
+21:09:30 : successfully opened config file
+21:09:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:30 : dbType = snowflake
+21:09:30 : successfully opened config file
+21:09:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:30 : dbType = snowflake
+21:09:31 : snowflake version = 6.9.0
+21:09:31 : snowflake version = 6.9.0
+21:09:31 : snowflake version = 6.9.0
+21:09:31 : snowflake version = 6.9.0
+21:09:31 : snowflake version = 6.9.0
+21:09:34 : successfully opened config file
+21:09:34 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:34 : dbType = snowflake
+21:09:34 : successfully opened config file
+21:09:34 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:34 : dbType = snowflake
+21:09:34 : successfully opened config file
+21:09:34 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:34 : dbType = snowflake
+21:09:34 : successfully opened config file
+21:09:34 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:34 : dbType = snowflake
+21:09:34 : successfully opened config file
+21:09:34 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:34 : dbType = snowflake
+21:09:35 : snowflake version = 6.9.0
+21:09:35 : snowflake version = 6.9.0
+21:09:35 : snowflake version = 6.9.0
+21:09:35 : snowflake version = 6.9.0
+21:09:35 : snowflake version = 6.9.0
+21:09:38 : successfully opened config file
+21:09:38 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:38 : dbType = snowflake
+21:09:38 : successfully opened config file
+21:09:38 : successfully opened config file 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:38 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:38 : dbType = snowflake
+21:09:38 : successfully opened config file
+21:09:38 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:38 : dbType = snowflake
+21:09:38 : successfully opened config file
+21:09:38 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:38 : dbType = snowflake
+21:09:39 : snowflake version = 6.9.0
+21:09:39 : snowflake version = 6.9.0
+21:09:39 : snowflake version = 6.9.0
+21:09:39 : snowflake version = 6.9.0
+21:09:39 : snowflake version = 6.9.0
+21:09:42 : successfully opened config file
+21:09:42 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:42 : dbType = snowflake
+21:09:42 : successfully opened config file
+21:09:42 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:42 : dbType = snowflake
+21:09:42 : successfully opened config file
+21:09:42 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:42 : dbType = snowflake
+21:09:42 : successfully opened config file
+21:09:42 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:42 : dbType = snowflake
+21:09:42 : successfully opened config file
+21:09:42 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:42 : dbType = snowflake
+21:09:44 : snowflake version = 6.9.0
+21:09:44 : snowflake version = 6.9.0
+21:09:44 : snowflake version = 6.9.0
+21:09:44 : snowflake version = 6.9.0
+21:09:44 : snowflake version = 6.9.0
+21:09:47 : successfully opened config file
+21:09:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:47 : dbType = snowflake
+21:09:47 : successfully opened config file
+21:09:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:47 : dbType = snowflake
+21:09:47 : successfully opened config file
+21:09:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:47 : dbType = snowflake
+21:09:47 : successfully opened config file
+21:09:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:47 : dbType = snowflake
+21:09:48 : successfully opened config file
+21:09:48 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:48 : dbType = snowflake
+21:09:48 : snowflake version = 6.9.0
+21:09:48 : snowflake version = 6.9.0
+21:09:48 : snowflake version = 6.9.0
+21:09:49 : snowflake version = 6.9.0
+21:09:49 : snowflake version = 6.9.0
+21:09:52 : successfully opened config file
+21:09:52 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:52 : dbType = snowflake
+21:09:52 : successfully opened config file
+21:09:52 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:52 : dbType = snowflake
+21:09:52 : successfully opened config file
+21:09:52 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:52 : dbType = snowflake
+21:09:52 : successfully opened config file
+21:09:52 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:52 : dbType = snowflake
+21:09:52 : successfully opened config file
+21:09:52 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:52 : dbType = snowflake
+21:09:58 : successfully opened config file
+21:09:58 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:09:58 : dbType = snowflake
+21:09:58 : snowflake version = 6.9.0
+21:10:01 : successfully opened config file
+21:10:01 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:10:01 : dbType = snowflake
+21:10:01 : successfully opened config file
+21:10:01 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:10:01 : dbType = snowflake
+21:10:01 : successfully opened config file
+21:10:01 : successfully opened config file
+21:10:01 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:10:01 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:10:01 : dbType = snowflake
+21:10:01 : dbType = snowflake
+21:10:01 : successfully opened config file
+21:10:01 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:10:01 : dbType = snowflake
+21:10:02 : snowflake version = 6.9.0
+21:10:02 : snowflake version = 6.9.0
+21:10:02 : snowflake version = 6.9.0
+21:10:02 : snowflake version = 6.9.0
+21:10:03 : snowflake version = 6.9.0
+21:10:36 : successfully opened config file
+21:10:36 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:10:36 : dbType = snowflake
+21:10:37 : snowflake version = 6.9.0
+21:10:40 : successfully opened config file
+21:10:40 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:10:40 : dbType = snowflake
+21:10:40 : successfully opened config file
+21:10:40 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:10:40 : dbType = snowflake
+21:10:40 : successfully opened config file
+21:10:40 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:10:40 : dbType = snowflake
+21:10:40 : successfully opened config file
+21:10:40 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:10:40 : dbType = snowflake
+21:10:40 : successfully opened config file
+21:10:40 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:10:40 : dbType = snowflake
+21:10:40 : snowflake version = 6.9.0
+21:10:40 : snowflake version = 6.9.0
+21:10:40 : snowflake version = 6.9.0
+21:10:41 : snowflake version = 6.9.0
+21:10:41 : snowflake version = 6.9.0
+21:11:29 : successfully opened config file
+21:11:29 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:11:29 : dbType = snowflake
+21:11:29 : snowflake version = 6.9.0
+21:11:32 : successfully opened config file
+21:11:32 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:11:32 : dbType = snowflake
+21:11:32 : successfully opened config file
+21:11:32 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:11:32 : dbType = snowflake
+21:11:32 : successfully opened config file
+21:11:32 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:11:32 : dbType = snowflake
+21:11:32 : successfully opened config file
+21:11:32 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:11:32 : successfully opened config file
+21:11:32 : dbType = snowflake
+21:11:32 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:11:32 : dbType = snowflake
+21:11:33 : snowflake version = 6.9.0
+21:11:33 : snowflake version = 6.9.0
+21:11:33 : snowflake version = 6.9.0
+21:11:33 : snowflake version = 6.9.0
+21:11:33 : snowflake version = 6.9.0
+21:16:11 : successfully opened config file
+21:16:11 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:16:11 : dbType = snowflake
+21:16:12 : snowflake version = 6.9.0
+21:16:15 : successfully opened config file
+21:16:15 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:16:15 : dbType = snowflake
+21:16:15 : successfully opened config file
+21:16:15 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:16:15 : dbType = snowflake
+21:16:15 : successfully opened config file
+21:16:15 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:16:15 : dbType = snowflake
+21:16:15 : successfully opened config file
+21:16:15 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:16:15 : dbType = snowflake
+21:16:15 : successfully opened config file
+21:16:15 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:16:15 : dbType = snowflake
+21:16:16 : snowflake version = 6.9.0
+21:16:16 : snowflake version = 6.9.0
+21:16:16 : snowflake version = 6.9.0
+21:16:16 : snowflake version = 6.9.0
+21:16:16 : snowflake version = 6.9.0
+21:17:56 : successfully opened config file
+21:17:56 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:17:56 : dbType = snowflake
+21:18:00 : snowflake version = 6.9.0
+21:18:03 : successfully opened config file
+21:18:03 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:18:03 : dbType = snowflake
+21:18:03 : successfully opened config file
+21:18:03 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:18:03 : dbType = snowflake
+21:18:03 : successfully opened config file
+21:18:03 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:18:03 : dbType = snowflake
+21:18:03 : successfully opened config file
+21:18:03 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:18:03 : dbType = snowflake
+21:18:03 : successfully opened config file
+21:18:03 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+21:18:03 : dbType = snowflake
+21:18:04 : snowflake version = 6.9.0
+21:18:04 : snowflake version = 6.9.0
+21:18:04 : snowflake version = 6.9.0
+21:18:04 : snowflake version = 6.9.0
+21:18:04 : snowflake version = 6.9.0
+00:06:38 : successfully opened config file
+00:06:38 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:06:38 : dbType = snowflake
+00:06:40 : snowflake version = 6.9.0
+00:06:44 : successfully opened config file
+00:06:44 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:06:44 : dbType = snowflake
+00:06:44 : successfully opened config file
+00:06:44 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:06:44 : dbType = snowflake
+00:06:44 : successfully opened config file
+00:06:44 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:06:44 : dbType = snowflake
+00:06:44 : successfully opened config file
+00:06:44 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:06:44 : dbType = snowflake
+00:06:44 : successfully opened config file
+00:06:44 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:06:44 : dbType = snowflake
+00:06:45 : snowflake version = 6.9.0
+00:06:46 : snowflake version = 6.9.0
+00:06:46 : snowflake version = 6.9.0
+00:06:46 : snowflake version = 6.9.0
+00:06:46 : snowflake version = 6.9.0
+00:08:19 : successfully opened config file
+00:08:19 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:08:19 : dbType = snowflake
+00:08:20 : snowflake version = 6.9.0
+00:08:23 : successfully opened config file
+00:08:23 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:08:23 : dbType = snowflake
+00:08:25 : snowflake version = 6.9.0
+00:09:44 : successfully opened config file
+00:09:44 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:09:44 : dbType = snowflake
+00:09:47 : snowflake version = 6.9.0
+00:09:51 : successfully opened config file
+00:09:51 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:09:51 : dbType = snowflake
+00:09:53 : snowflake version = 6.9.0
+00:10:11 : successfully opened config file
+00:10:11 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:10:11 : dbType = snowflake
+00:10:12 : snowflake version = 6.9.0
+00:10:27 : successfully opened config file
+00:10:27 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:10:27 : dbType = snowflake
+00:10:28 : snowflake version = 6.9.0
+00:10:40 : successfully opened config file
+00:10:40 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:10:40 : dbType = snowflake
+00:10:41 : snowflake version = 6.9.0
+00:10:54 : successfully opened config file
+00:10:54 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:10:54 : dbType = snowflake
+00:10:56 : snowflake version = 6.9.0
+00:11:10 : successfully opened config file
+00:11:10 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:11:10 : dbType = snowflake
+00:11:11 : snowflake version = 6.9.0
+00:11:23 : successfully opened config file
+00:11:23 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:11:23 : dbType = snowflake
+00:11:24 : snowflake version = 6.9.0
+00:11:36 : successfully opened config file
+00:11:36 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:11:36 : dbType = snowflake
+00:11:37 : snowflake version = 6.9.0
+00:11:51 : successfully opened config file
+00:11:51 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:11:51 : dbType = snowflake
+00:11:53 : snowflake version = 6.9.0
+00:12:07 : successfully opened config file
+00:12:07 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:12:07 : dbType = snowflake
+00:12:09 : snowflake version = 6.9.0
+00:12:20 : successfully opened config file
+00:12:20 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:12:20 : dbType = snowflake
+00:21:47 : successfully opened config file
+00:21:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:21:47 : dbType = snowflake
+00:21:49 : snowflake version = 6.9.0
+00:21:53 : successfully opened config file
+00:21:53 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:21:53 : dbType = snowflake
+00:21:54 : snowflake version = 6.9.0
+00:22:05 : successfully opened config file
+00:22:05 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:22:05 : dbType = snowflake
+00:22:07 : snowflake version = 6.9.0
+00:22:18 : successfully opened config file
+00:22:18 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:22:18 : dbType = snowflake
+00:22:19 : snowflake version = 6.9.0
+00:24:50 : successfully opened config file
+00:24:50 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:24:50 : dbType = snowflake
+00:24:53 : snowflake version = 6.9.0
+00:24:58 : successfully opened config file
+00:24:58 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:24:58 : dbType = snowflake
+00:24:59 : snowflake version = 6.9.0
+00:25:03 : successfully opened config file
+00:25:03 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:25:03 : dbType = snowflake
+00:25:05 : snowflake version = 6.9.0
+00:25:10 : successfully opened config file
+00:25:10 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:25:10 : dbType = snowflake
+00:25:10 : snowflake version = 6.9.0
+00:27:55 : successfully opened config file
+00:27:55 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:27:55 : dbType = snowflake
+00:27:57 : snowflake version = 6.9.0
+00:28:01 : successfully opened config file
+00:28:01 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:28:01 : dbType = snowflake
+00:28:02 : snowflake version = 6.9.0
+00:28:06 : successfully opened config file
+00:28:06 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:28:06 : dbType = snowflake
+00:28:07 : snowflake version = 6.9.0
+00:28:14 : successfully opened config file
+00:28:14 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:28:14 : dbType = snowflake
+00:28:15 : snowflake version = 6.9.0
+00:28:19 : successfully opened config file
+00:28:19 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:28:19 : dbType = snowflake
+00:28:20 : snowflake version = 6.9.0
+00:28:28 : successfully opened config file
+00:28:28 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:28:28 : dbType = snowflake
+00:28:31 : snowflake version = 6.9.0
+00:28:36 : successfully opened config file
+00:28:36 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:28:36 : dbType = snowflake
+00:28:37 : snowflake version = 6.9.0
+00:28:45 : successfully opened config file
+00:28:45 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:28:45 : dbType = snowflake
+00:28:46 : snowflake version = 6.9.0
+00:28:50 : successfully opened config file
+00:28:50 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:28:50 : dbType = snowflake
+00:28:51 : snowflake version = 6.9.0
+00:28:58 : successfully opened config file
+00:28:58 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:28:58 : dbType = snowflake
+00:30:31 : successfully opened config file
+00:30:31 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:30:31 : dbType = snowflake
+00:30:33 : snowflake version = 6.9.0
+00:30:36 : successfully opened config file
+00:30:36 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:30:36 : dbType = snowflake
+00:30:36 : snowflake version = 6.9.0
+00:30:43 : successfully opened config file
+00:30:43 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:30:43 : dbType = snowflake
+00:30:44 : snowflake version = 6.9.0
+00:30:54 : successfully opened config file
+00:30:54 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:30:54 : dbType = snowflake
+00:30:55 : snowflake version = 6.9.0
+00:30:59 : successfully opened config file
+00:30:59 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:30:59 : dbType = snowflake
+00:31:00 : snowflake version = 6.9.0
+00:31:04 : successfully opened config file
+00:31:04 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:31:04 : dbType = snowflake
+00:31:05 : snowflake version = 6.9.0
+00:31:12 : successfully opened config file
+00:31:12 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:31:12 : dbType = snowflake
+00:31:13 : snowflake version = 6.9.0
+00:31:16 : successfully opened config file
+00:31:16 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:31:16 : dbType = snowflake
+00:31:17 : snowflake version = 6.9.0
+00:31:24 : successfully opened config file
+00:31:24 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:31:24 : dbType = snowflake
+00:31:26 : snowflake version = 6.9.0
+00:31:30 : successfully opened config file
+00:31:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:31:30 : dbType = snowflake
+00:31:31 : snowflake version = 6.9.0
+00:31:37 : successfully opened config file
+00:31:37 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:31:37 : dbType = snowflake
+00:31:38 : snowflake version = 6.9.0
+00:31:43 : successfully opened config file
+00:31:43 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:31:43 : dbType = snowflake
+00:31:44 : snowflake version = 6.9.0
+00:31:52 : successfully opened config file
+00:31:52 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:31:52 : dbType = snowflake
+00:31:53 : snowflake version = 6.9.0
+00:32:02 : successfully opened config file
+00:32:02 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:32:02 : dbType = snowflake
+00:32:03 : snowflake version = 6.9.0
+00:59:08 : successfully opened config file
+00:59:08 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:59:08 : dbType = snowflake
+00:59:09 : snowflake version = 6.9.0
+00:59:13 : successfully opened config file
+00:59:13 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:59:13 : dbType = snowflake
+00:59:14 : snowflake version = 6.9.0
+00:59:17 : successfully opened config file
+00:59:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:59:17 : dbType = snowflake
+00:59:18 : snowflake version = 6.9.0
+00:59:25 : successfully opened config file
+00:59:25 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:59:25 : dbType = snowflake
+00:59:26 : snowflake version = 6.9.0
+00:59:30 : successfully opened config file
+00:59:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:59:30 : dbType = snowflake
+00:59:31 : snowflake version = 6.9.0
+00:59:39 : successfully opened config file
+00:59:39 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:59:39 : dbType = snowflake
+00:59:41 : snowflake version = 6.9.0
+00:59:45 : successfully opened config file
+00:59:45 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:59:45 : dbType = snowflake
+00:59:47 : snowflake version = 6.9.0
+00:59:55 : successfully opened config file
+00:59:55 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+00:59:55 : dbType = snowflake
+00:59:56 : snowflake version = 6.9.0
+01:00:00 : successfully opened config file
+01:00:00 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:00:00 : dbType = snowflake
+01:00:01 : snowflake version = 6.9.0
+01:00:12 : successfully opened config file
+01:00:12 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:00:12 : dbType = snowflake
+01:00:13 : snowflake version = 6.9.0
+01:00:18 : successfully opened config file
+01:00:18 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:00:18 : dbType = snowflake
+01:00:19 : snowflake version = 6.9.0
+01:00:26 : successfully opened config file
+01:00:26 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:00:26 : dbType = snowflake
+01:00:27 : snowflake version = 6.9.0
+01:00:30 : successfully opened config file
+01:00:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:00:30 : dbType = snowflake
+01:00:32 : snowflake version = 6.9.0
+01:00:39 : successfully opened config file
+01:00:39 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:00:39 : dbType = snowflake
+01:00:41 : snowflake version = 6.9.0
+01:00:45 : successfully opened config file
+01:00:45 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:00:45 : dbType = snowflake
+01:00:46 : snowflake version = 6.9.0
+01:00:53 : successfully opened config file
+01:00:53 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:00:53 : dbType = snowflake
+01:00:54 : snowflake version = 6.9.0
+01:00:58 : successfully opened config file
+01:00:58 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:00:58 : dbType = snowflake
+01:00:59 : snowflake version = 6.9.0
+01:01:07 : successfully opened config file
+01:01:07 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:01:07 : dbType = snowflake
+01:01:08 : snowflake version = 6.9.0
+01:01:13 : successfully opened config file
+01:01:13 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:01:13 : dbType = snowflake
+01:01:14 : snowflake version = 6.9.0
+01:01:20 : successfully opened config file
+01:01:20 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:01:20 : dbType = snowflake
+01:02:00 : successfully opened config file
+01:02:00 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:02:00 : dbType = snowflake
+01:02:00 : snowflake version = 6.9.0
+01:02:01 : successfully opened config file
+01:02:01 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:02:01 : dbType = snowflake
+01:02:02 : snowflake version = 6.9.0
+01:02:05 : successfully opened config file
+01:02:05 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:02:05 : dbType = snowflake
+01:02:06 : snowflake version = 6.9.0
+01:06:19 : successfully opened config file
+01:06:19 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:06:19 : dbType = snowflake
+01:06:20 : snowflake version = 6.9.0
+01:06:21 : successfully opened config file
+01:06:21 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:06:21 : dbType = snowflake
+01:06:22 : snowflake version = 6.9.0
+01:06:26 : successfully opened config file
+01:06:26 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:06:26 : dbType = snowflake
+01:06:26 : snowflake version = 6.9.0
+01:08:08 : successfully opened config file
+01:08:08 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:08:08 : dbType = snowflake
+01:08:09 : snowflake version = 6.9.0
+01:08:09 : successfully opened config file
+01:08:09 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:08:09 : dbType = snowflake
+01:08:10 : snowflake version = 6.9.0
+01:08:14 : successfully opened config file
+01:08:14 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:08:14 : dbType = snowflake
+01:08:15 : snowflake version = 6.9.0
+01:09:04 : successfully opened config file
+01:09:04 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:09:04 : dbType = snowflake
+01:09:05 : snowflake version = 6.9.0
+01:09:06 : successfully opened config file
+01:09:06 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:09:06 : dbType = snowflake
+01:09:07 : snowflake version = 6.9.0
+01:09:11 : successfully opened config file
+01:09:11 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:09:11 : dbType = snowflake
+01:09:13 : snowflake version = 6.9.0
+01:11:10 : successfully opened config file
+01:11:10 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:11:10 : dbType = snowflake
+01:11:11 : snowflake version = 6.9.0
+01:11:11 : successfully opened config file
+01:11:11 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:11:11 : dbType = snowflake
+01:11:12 : snowflake version = 6.9.0
+01:11:17 : successfully opened config file
+01:11:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:11:17 : dbType = snowflake
+01:11:17 : successfully opened config file
+01:11:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:11:17 : dbType = snowflake
+01:11:17 : successfully opened config file
+01:11:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:11:17 : dbType = snowflake
+01:11:17 : successfully opened config file
+01:11:17 : successfully opened config file
+01:11:17 : successfully opened config file 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:11:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:11:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:11:17 : dbType = snowflake
+01:11:17 : dbType = snowflake
+01:11:17 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:11:17 : dbType = snowflake
+01:11:17 : snowflake version = 6.9.0
+01:11:18 : snowflake version = 6.9.0
+01:11:18 : snowflake version = 6.9.0
+01:11:18 : snowflake version = 6.9.0
+01:11:18 : snowflake version = 6.9.0
+01:11:18 : snowflake version = 6.9.0
+01:11:18 : snowflake version = 6.9.0
+01:13:22 : successfully opened config file
+01:13:22 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:13:22 : dbType = snowflake
+01:13:23 : snowflake version = 6.9.0
+01:13:23 : successfully opened config file
+01:13:23 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:13:23 : dbType = snowflake
+01:13:24 : snowflake version = 6.9.0
+01:13:28 : successfully opened config file
+01:13:28 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:13:28 : dbType = snowflake
+01:13:28 : successfully opened config file
+01:13:28 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:13:28 : dbType = snowflake
+01:13:28 : successfully opened config file
+01:13:28 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:13:28 : dbType = snowflake
+01:13:28 : successfully opened config file
+01:13:28 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:13:28 : dbType = snowflake
+01:13:28 : successfully opened config file
+01:13:28 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:13:28 : dbType = snowflake
+01:13:28 : successfully opened config file
+01:13:28 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:13:28 : dbType = snowflake
+01:13:28 : successfully opened config file
+01:13:28 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:13:28 : dbType = snowflake
+01:13:29 : snowflake version = 6.9.0
+01:13:29 : snowflake version = 6.9.0
+01:13:29 : snowflake version = 6.9.0
+01:13:29 : snowflake version = 6.9.0
+01:13:29 : snowflake version = 6.9.0
+01:13:29 : snowflake version = 6.9.0
+01:13:29 : snowflake version = 6.9.0
+01:14:37 : successfully opened config file
+01:14:37 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:14:37 : dbType = snowflake
+01:14:38 : snowflake version = 6.9.0
+01:15:41 : successfully opened config file
+01:15:41 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:15:41 : dbType = snowflake
+01:15:42 : snowflake version = 6.9.0
+01:15:42 : successfully opened config file
+01:15:42 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:15:42 : dbType = snowflake
+01:15:43 : snowflake version = 6.9.0
+01:15:47 : successfully opened config file
+01:15:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:15:47 : dbType = snowflake
+01:15:47 : successfully opened config file
+01:15:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:15:47 : dbType = snowflake
+01:15:47 : successfully opened config file
+01:15:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:15:47 : dbType = snowflake
+01:15:47 : successfully opened config file
+01:15:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:15:47 : dbType = snowflake
+01:15:47 : successfully opened config file
+01:15:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:15:47 : dbType = snowflake
+01:15:47 : successfully opened config file
+01:15:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:15:47 : dbType = snowflake
+01:15:47 : successfully opened config file
+01:15:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:15:47 : dbType = snowflake
+01:15:48 : snowflake version = 6.9.0
+01:15:48 : snowflake version = 6.9.0
+01:15:48 : snowflake version = 6.9.0
+01:15:48 : snowflake version = 6.9.0
+01:15:48 : snowflake version = 6.9.0
+01:15:48 : snowflake version = 6.9.0
+01:15:49 : snowflake version = 6.9.0
+01:15:55 : successfully opened config file
+01:15:55 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:15:55 : dbType = snowflake
+01:15:57 : snowflake version = 6.9.0
+01:15:57 : successfully opened config file
+01:15:57 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:15:57 : dbType = snowflake
+01:15:58 : snowflake version = 6.9.0
+01:16:02 : successfully opened config file
+01:16:02 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:16:02 : dbType = snowflake
+01:16:02 : successfully opened config file
+01:16:02 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:16:02 : dbType = snowflake
+01:16:02 : successfully opened config file
+01:16:02 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:16:02 : dbType = snowflake
+01:16:02 : successfully opened config file
+01:16:02 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:16:02 : dbType = snowflake
+01:16:02 : successfully opened config file
+01:16:02 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:16:02 : dbType = snowflake
+01:16:02 : successfully opened config file
+01:16:02 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:16:02 : dbType = snowflake
+01:16:02 : successfully opened config file
+01:16:02 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:16:02 : dbType = snowflake
+01:16:03 : snowflake version = 6.9.0
+01:16:03 : snowflake version = 6.9.0
+01:16:03 : snowflake version = 6.9.0
+01:16:03 : snowflake version = 6.9.0
+01:16:03 : snowflake version = 6.9.0
+01:16:03 : snowflake version = 6.9.0
+01:16:03 : snowflake version = 6.9.0
+01:16:47 : successfully opened config file
+01:16:47 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+01:16:47 : dbType = snowflake
+01:16:48 : snowflake version = 6.9.0
+02:14:44 : successfully opened config file
+02:14:45 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:14:45 : dbType = snowflake
+02:14:46 : snowflake version = 6.9.0
+02:16:45 : successfully opened config file
+02:16:45 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:16:45 : dbType = snowflake
+02:16:46 : snowflake version = 6.9.0
+02:16:49 : successfully opened config file
+02:16:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:16:49 : dbType = snowflake
+02:16:49 : successfully opened config file
+02:16:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:16:49 : dbType = snowflake
+02:16:49 : successfully opened config file
+02:16:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:16:49 : dbType = snowflake
+02:16:49 : successfully opened config file
+02:16:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:16:49 : dbType = snowflake
+02:16:49 : successfully opened config file
+02:16:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:16:49 : dbType = snowflake
+02:16:49 : successfully opened config file
+02:16:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:16:49 : dbType = snowflake
+02:16:49 : successfully opened config file
+02:16:49 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+02:16:49 : dbType = snowflake
+02:16:50 : snowflake version = 6.9.0
+02:16:50 : snowflake version = 6.9.0
+02:16:50 : snowflake version = 6.9.0
+02:16:50 : snowflake version = 6.9.0
+02:16:50 : snowflake version = 6.9.0
+02:16:50 : snowflake version = 6.9.0
+03:25:25 : successfully opened config file
+03:25:26 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+03:25:26 : dbType = snowflake
+03:25:26 : snowflake version = 6.9.0
+03:25:30 : successfully opened config file
+03:25:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+03:25:30 : dbType = snowflake
+03:25:30 : successfully opened config file
+03:25:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+03:25:30 : dbType = snowflake
+03:25:30 : successfully opened config file
+03:25:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+03:25:30 : dbType = snowflake
+03:25:30 : successfully opened config file
+03:25:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+03:25:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+03:25:30 : dbType = snowflake
+03:25:30 : dbType = snowflake
+03:25:30 : successfully opened config file
+03:25:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+03:25:30 : dbType = snowflake
+03:25:30 : successfully opened config file
+03:25:30 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+03:25:30 : dbType = snowflake
+03:25:31 : snowflake version = 6.9.0
+03:25:31 : snowflake version = 6.9.0
+03:25:31 : snowflake version = 6.9.0
+03:25:31 : snowflake version = 6.9.0
+03:25:31 : snowflake version = 6.9.0
+03:25:31 : snowflake version = 6.9.0
+03:25:31 : snowflake version = 6.9.0

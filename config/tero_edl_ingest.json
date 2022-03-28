@@ -1,0 +1,27 @@
+{"dbDetails": [
+   {
+    "dbName":"DB01_SF",
+    "dbType": "snowflake",
+    "auth": {
+      "user": "akashadhikary",
+      "password": "Teromeet17217@#",
+      "account": "lm04575.ap-south-1.aws",
+      "default-wh":"COMPUTE_WH",
+      "default-db":"OYO",
+      "default-schema": "USERS"
+    }
+  },
+  {
+    "dbName":"DB02_SF",
+    "dbType": "snowflake",
+    "auth": {
+      "user": "AKASH_INGESTION_FRAMEWORK",
+      "password": "Teromeet17217@#",
+      "account": "lm04575.ap-south-1.aws",
+      "default-wh":"COMPUTE_WH",
+      "default-db":"OYO",
+      "default-schema": "USERS"
+    }
+  }
+]
+}
