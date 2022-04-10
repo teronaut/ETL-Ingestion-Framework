@@ -20,12 +20,15 @@ def executeMultiQuery(queries):
 def get_ddl(fileSourceLocation,fileName,targetDb,targetSchema,targetTable):
     menu = Table(str(fileSourceLocation)+"/"+str(fileName),table_name=targetTable)
     ddl = menu.ddl('mysql')
-    ddl = ddl.replace("CREATE TABLE ", "CREATE TABLE IF NOT EXISTS "+str(targetDb)+"."+str(targetSchema)+".")
+    ddl = ddl.replace("CREATE TABLE ", "CREATE OR REPLACE TABLE "+str(targetDb)+"."+str(targetSchema)+".")
     ddl = ddl.replace(";","")
+    # .replace("___","").replace("__","")
     # ddl = ddl.replace("DROP TABLE  "+str(fileName),"")
     ddl=re.sub('.*', '', ddl, 3)
     # print(re.sub('^DROP TABLE .*$', '', ddl))
-    return(ddl)
+    ddl=(re.sub(r"\t+_*", '', ddl))
+    print(ddl)
+    return(str(ddl))
 
 
 def FullDirectFile(jobVariables):
@@ -135,9 +138,9 @@ def mjEdlIngest(batch):
 
 
 import multiprocessing
-batch='EVERY_MINUTE1'
+batch='EVERY_MINUTE3'
 # global cur
-initEnv('DEV_AZURE_WEST',environmentVariables)
+initEnv('APISERO',environmentVariables)
 if __name__ == "__main__":
     # initEnv('DEV_AZURE_WEST',environmentVariables)
     mjEdlIngest(batch)

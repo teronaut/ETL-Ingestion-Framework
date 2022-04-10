@@ -1607,3 +1607,537 @@
 03:25:31 : snowflake version = 6.9.0
 03:25:31 : snowflake version = 6.9.0
 03:25:31 : snowflake version = 6.9.0
+15:18:03 : successfully opened config file
+15:18:03 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+15:18:03 : dbType = snowflake
+17:16:46 : successfully opened config file
+17:16:46 : {'dbName': 'DB01_SF', 'dbType': 'snowflake', 'auth': {'user': 'akashadhikary', 'password': 'Teromeet17217@#', 'account': 'lm04575.ap-south-1.aws', 'default-wh': 'COMPUTE_WH', 'default-db': 'OYO', 'default-schema': 'USERS'}}
+17:16:46 : dbType = snowflake
+17:18:05 : successfully opened config file
+17:18:05 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:18:05 : dbType = snowflake
+17:18:07 : snowflake version = 6.10.2
+17:18:48 : successfully opened config file
+17:18:48 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:18:48 : dbType = snowflake
+17:18:52 : snowflake version = 6.10.2
+17:18:55 : successfully opened config file
+17:18:55 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:18:55 : dbType = snowflake
+17:18:55 : successfully opened config file
+17:18:55 : successfully opened config file
+17:18:55 : successfully opened config file
+17:18:55 : successfully opened config file
+17:18:55 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:18:55 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:18:55 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:18:55 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:18:55 : dbType = snowflake
+17:18:55 : dbType = snowflake
+17:18:55 : dbType = snowflake
+17:18:56 : snowflake version = 6.10.2
+17:18:57 : snowflake version = 6.10.2
+17:18:57 : snowflake version = 6.10.2
+17:18:57 : snowflake version = 6.10.2
+17:18:57 : snowflake version = 6.10.2
+17:18:57 : snowflake version = 6.10.2
+17:18:57 : snowflake version = 6.10.2
+17:19:22 : successfully opened config file
+17:19:22 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:19:22 : dbType = snowflake
+17:19:24 : snowflake version = 6.10.2
+17:19:26 : successfully opened config file
+17:19:26 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:19:26 : dbType = snowflake
+17:19:31 : snowflake version = 6.10.2
+17:20:22 : successfully opened config file
+17:20:22 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:20:22 : dbType = snowflake
+17:20:25 : snowflake version = 6.10.2
+17:20:27 : successfully opened config file
+17:20:27 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:20:27 : dbType = snowflake
+17:20:30 : snowflake version = 6.10.2
+17:21:52 : successfully opened config file
+17:21:52 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:21:52 : dbType = snowflake
+17:21:54 : snowflake version = 6.10.2
+17:21:56 : successfully opened config file
+17:21:56 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:21:56 : dbType = snowflake
+17:21:59 : snowflake version = 6.10.2
+17:22:30 : successfully opened config file
+17:22:30 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:22:30 : dbType = snowflake
+17:22:33 : snowflake version = 6.10.2
+17:22:35 : successfully opened config file
+17:22:35 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:22:35 : dbType = snowflake
+17:22:36 : snowflake version = 6.10.2
+17:23:41 : successfully opened config file
+17:23:41 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:23:41 : dbType = snowflake
+17:23:44 : snowflake version = 6.10.2
+17:23:46 : successfully opened config file
+17:23:46 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:23:46 : dbType = snowflake
+17:23:48 : snowflake version = 6.10.2
+17:24:21 : successfully opened config file
+17:24:21 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:24:21 : dbType = snowflake
+17:24:25 : snowflake version = 6.10.2
+17:24:29 : successfully opened config file
+17:24:29 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:24:29 : dbType = snowflake
+17:24:33 : snowflake version = 6.10.2
+17:25:17 : successfully opened config file
+17:25:17 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:25:17 : dbType = snowflake
+17:25:20 : snowflake version = 6.10.2
+17:25:22 : successfully opened config file
+17:25:22 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:25:22 : dbType = snowflake
+17:25:25 : snowflake version = 6.10.2
+17:32:26 : successfully opened config file
+17:32:26 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:32:26 : dbType = snowflake
+17:32:27 : snowflake version = 6.10.2
+17:32:29 : successfully opened config file
+17:32:29 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+17:32:29 : dbType = snowflake
+17:32:31 : snowflake version = 6.10.2
+18:40:45 : successfully opened config file
+18:40:45 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:40:45 : dbType = snowflake
+18:40:47 : snowflake version = 6.10.2
+18:40:49 : successfully opened config file
+18:40:49 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:40:49 : dbType = snowflake
+18:40:49 : successfully opened config file
+18:40:49 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:40:49 : dbType = snowflake
+18:40:49 : successfully opened config file
+18:40:49 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:40:49 : dbType = snowflake
+18:40:49 : successfully opened config file
+18:40:49 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:40:49 : dbType = snowflake
+18:40:49 : successfully opened config file
+18:40:49 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:40:49 : dbType = snowflake
+18:40:51 : snowflake version = 6.10.2
+18:40:51 : snowflake version = 6.10.2
+18:40:51 : snowflake version = 6.10.2
+18:40:51 : snowflake version = 6.10.2
+18:40:51 : snowflake version = 6.10.2
+18:41:24 : successfully opened config file
+18:41:24 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:41:24 : dbType = snowflake
+18:41:26 : snowflake version = 6.10.2
+18:41:28 : successfully opened config file
+18:41:28 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:41:28 : dbType = snowflake
+18:41:28 : successfully opened config file
+18:41:28 : successfully opened config file
+18:41:28 : successfully opened config file
+18:41:28 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:41:28 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:41:28 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:41:28 : dbType = snowflake
+18:41:28 : dbType = snowflake
+18:41:28 : dbType = snowflake
+18:41:28 : successfully opened config file
+18:41:28 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:41:28 : dbType = snowflake
+18:41:30 : snowflake version = 6.10.2
+18:41:30 : snowflake version = 6.10.2
+18:41:30 : snowflake version = 6.10.2
+18:41:30 : snowflake version = 6.10.2
+18:41:30 : snowflake version = 6.10.2
+18:45:07 : successfully opened config file
+18:45:07 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:45:07 : dbType = snowflake
+18:45:10 : snowflake version = 6.10.2
+18:45:12 : successfully opened config file
+18:45:12 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:45:12 : dbType = snowflake
+18:45:12 : successfully opened config file
+18:45:12 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:45:12 : dbType = snowflake
+18:45:12 : successfully opened config file
+18:45:12 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:45:12 : dbType = snowflake
+18:45:12 : successfully opened config file
+18:45:12 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:45:12 : dbType = snowflake
+18:45:14 : snowflake version = 6.10.2
+18:45:14 : snowflake version = 6.10.2
+18:45:14 : snowflake version = 6.10.2
+18:45:14 : snowflake version = 6.10.2
+18:47:41 : successfully opened config file
+18:47:41 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:47:41 : dbType = snowflake
+18:47:44 : snowflake version = 6.10.2
+18:47:46 : successfully opened config file
+18:47:46 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:47:46 : dbType = snowflake
+18:47:46 : successfully opened config file
+18:47:46 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:47:46 : dbType = snowflake
+18:47:46 : successfully opened config file
+18:47:46 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:47:46 : dbType = snowflake
+18:47:46 : successfully opened config file
+18:47:46 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:47:46 : dbType = snowflake
+18:47:47 : snowflake version = 6.10.2
+18:47:48 : snowflake version = 6.10.2
+18:47:48 : snowflake version = 6.10.2
+18:47:50 : snowflake version = 6.10.2
+18:52:27 : successfully opened config file
+18:52:27 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:52:27 : dbType = snowflake
+18:52:28 : snowflake version = 6.10.2
+18:52:31 : successfully opened config file
+18:52:31 : successfully opened config file
+18:52:31 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:52:31 : dbType = snowflakeF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:52:31 : dbType = snowflake
+18:52:31 : successfully opened config file
+18:52:31 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:52:31 : dbType = snowflake
+18:52:31 : successfully opened config file
+18:52:31 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:52:31 : dbType = snowflake
+18:52:32 : snowflake version = 6.10.2
+18:52:32 : snowflake version = 6.10.2
+18:52:33 : snowflake version = 6.10.2
+18:54:52 : successfully opened config file
+18:54:52 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:54:52 : dbType = snowflake
+18:54:53 : snowflake version = 6.10.2
+18:54:55 : successfully opened config file
+18:54:55 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:54:55 : dbType = snowflake
+18:54:55 : successfully opened config file
+18:54:55 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:54:55 : dbType = snowflake
+18:54:55 : successfully opened config file
+18:54:55 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:54:55 : dbType = snowflake
+18:54:55 : successfully opened config file
+18:54:55 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+18:54:55 : dbType = snowflake
+18:54:57 : snowflake version = 6.10.2
+18:54:57 : snowflake version = 6.10.2
+18:54:57 : snowflake version = 6.10.2
+22:30:02 : successfully opened config file
+22:30:02 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:30:02 : dbType = snowflake
+22:30:05 : snowflake version = 6.10.2
+22:30:08 : successfully opened config file
+22:30:08 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:30:08 : dbType = snowflake
+22:30:08 : successfully opened config file
+22:30:08 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:30:08 : dbType = snowflake
+22:30:08 : successfully opened config file
+22:30:08 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:30:08 : dbType = snowflake
+22:30:08 : successfully opened config file
+22:30:08 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:30:08 : dbType = snowflake
+22:30:10 : snowflake version = 6.10.2
+22:30:10 : snowflake version = 6.10.2
+22:30:10 : snowflake version = 6.10.2
+22:30:10 : snowflake version = 6.10.2
+22:30:19 : successfully opened config file
+22:30:19 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:30:19 : dbType = snowflake
+22:30:21 : snowflake version = 6.10.2
+22:30:23 : successfully opened config file
+22:30:23 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:30:23 : dbType = snowflake
+22:30:23 : successfully opened config file
+22:30:23 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:30:23 : dbType = snowflake
+22:30:23 : successfully opened config file
+22:30:23 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:30:23 : successfully opened config file
+22:30:23 : dbType = snowflake
+22:30:23 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:30:23 : dbType = snowflake
+22:30:25 : snowflake version = 6.10.2
+22:30:25 : snowflake version = 6.10.2
+22:30:25 : snowflake version = 6.10.2
+22:30:26 : snowflake version = 6.10.2
+22:34:06 : successfully opened config file
+22:34:06 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:34:06 : dbType = snowflake
+22:34:08 : snowflake version = 6.10.2
+22:34:10 : successfully opened config file
+22:34:10 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:34:10 : dbType = snowflake
+22:34:10 : successfully opened config file
+22:34:10 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:34:10 : dbType = snowflake
+22:34:10 : successfully opened config file
+22:34:10 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:34:10 : dbType = snowflake
+22:34:12 : snowflake version = 6.10.2
+22:34:12 : snowflake version = 6.10.2
+22:34:13 : snowflake version = 6.10.2
+22:35:47 : successfully opened config file
+22:35:47 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:35:47 : dbType = snowflake
+22:35:49 : snowflake version = 6.10.2
+22:35:51 : successfully opened config file
+22:35:51 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:35:51 : dbType = snowflake
+22:35:53 : snowflake version = 6.10.2
+22:36:00 : successfully opened config file
+22:36:00 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:36:00 : dbType = snowflake
+22:36:02 : snowflake version = 6.10.2
+22:36:04 : successfully opened config file
+22:36:04 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+22:36:04 : dbType = snowflake
+22:36:06 : snowflake version = 6.10.2
+23:01:37 : successfully opened config file
+23:01:37 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:01:37 : dbType = snowflake
+23:01:39 : snowflake version = 6.10.2
+23:01:41 : successfully opened config file
+23:01:41 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:01:41 : dbType = snowflake
+23:01:43 : snowflake version = 6.10.2
+23:02:13 : successfully opened config file
+23:02:13 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:02:13 : dbType = snowflake
+23:02:17 : snowflake version = 6.10.2
+23:02:20 : successfully opened config file
+23:02:20 : successfully opened config file
+23:02:20 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:02:20 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:02:20 : dbType = snowflake
+23:02:20 : dbType = snowflake
+23:02:22 : snowflake version = 6.10.2
+23:02:22 : snowflake version = 6.10.2
+23:02:47 : successfully opened config file
+23:02:47 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:02:47 : dbType = snowflake
+23:02:50 : snowflake version = 6.10.2
+23:02:52 : successfully opened config file
+23:02:52 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:02:52 : dbType = snowflake
+23:02:52 : successfully opened config file
+23:02:52 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:02:52 : dbType = snowflake
+23:02:52 : successfully opened config file
+23:02:52 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:02:52 : dbType = snowflake
+23:02:54 : snowflake version = 6.10.2
+23:02:54 : snowflake version = 6.10.2
+23:02:54 : snowflake version = 6.10.2
+23:05:11 : successfully opened config file
+23:05:11 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:05:11 : dbType = snowflake
+23:05:13 : snowflake version = 6.10.2
+23:05:15 : successfully opened config file
+23:05:15 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:05:15 : dbType = snowflake
+23:05:17 : snowflake version = 6.10.2
+23:05:20 : successfully opened config file
+23:05:20 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:05:20 : dbType = snowflake
+23:05:22 : snowflake version = 6.10.2
+23:05:25 : successfully opened config file
+23:05:25 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:05:25 : dbType = snowflake
+23:05:26 : snowflake version = 6.10.2
+23:07:35 : successfully opened config file
+23:07:35 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:07:35 : dbType = snowflake
+23:07:37 : snowflake version = 6.10.2
+23:07:40 : successfully opened config file
+23:07:40 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:07:40 : dbType = snowflake
+23:07:42 : snowflake version = 6.10.2
+23:09:13 : successfully opened config file
+23:09:13 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:09:13 : dbType = snowflake
+23:09:18 : snowflake version = 6.10.2
+23:09:21 : successfully opened config file
+23:09:21 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:09:21 : dbType = snowflake
+23:09:21 : successfully opened config file
+23:09:21 : successfully opened config file
+23:09:21 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:09:21 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:09:21 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+23:09:21 : dbType = snowflake
+23:09:21 : dbType = snowflake
+23:09:21 : dbType = snowflake
+23:09:22 : snowflake version = 6.10.2
+23:09:22 : snowflake version = 6.10.2
+23:09:22 : snowflake version = 6.10.2
+23:09:23 : snowflake version = 6.10.2
+00:43:34 : successfully opened config file
+00:43:34 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:43:34 : dbType = snowflake
+00:43:36 : snowflake version = 6.10.2
+00:43:38 : successfully opened config file
+00:43:38 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:43:38 : dbType = snowflake
+00:43:38 : successfully opened config file
+00:43:38 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:43:38 : dbType = snowflake
+00:43:39 : successfully opened config file
+00:43:39 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:43:39 : dbType = snowflake
+00:43:39 : successfully opened config file
+00:43:39 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:43:39 : dbType = snowflake
+00:43:40 : snowflake version = 6.10.2
+00:43:40 : snowflake version = 6.10.2
+00:43:40 : snowflake version = 6.10.2
+00:43:41 : snowflake version = 6.10.2
+00:45:06 : successfully opened config file
+00:45:06 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:45:06 : dbType = snowflake
+00:45:09 : snowflake version = 6.10.2
+00:45:13 : successfully opened config file
+00:45:13 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:45:13 : dbType = snowflake
+00:45:13 : successfully opened config file
+00:45:13 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:45:13 : dbType = snowflake
+00:45:13 : successfully opened config file
+00:45:13 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:45:14 : dbType = snowflake
+00:45:14 : successfully opened config file
+00:45:14 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:45:14 : dbType = snowflake
+00:45:16 : snowflake version = 6.10.2
+00:45:16 : snowflake version = 6.10.2
+00:45:16 : snowflake version = 6.10.2
+00:45:17 : snowflake version = 6.10.2
+00:45:40 : successfully opened config file
+00:45:40 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:45:40 : dbType = snowflake
+00:45:45 : snowflake version = 6.10.2
+00:45:47 : successfully opened config file
+00:45:47 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:45:47 : dbType = snowflake
+00:45:47 : successfully opened config file
+00:45:47 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:45:47 : dbType = snowflake
+00:45:47 : successfully opened config file
+00:45:47 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:45:47 : dbType = snowflake
+00:45:47 : successfully opened config file
+00:45:47 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+00:45:47 : dbType = snowflake
+00:45:50 : snowflake version = 6.10.2
+00:45:50 : snowflake version = 6.10.2
+00:45:50 : snowflake version = 6.10.2
+00:45:50 : snowflake version = 6.10.2
+01:07:45 : successfully opened config file
+01:07:45 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:07:45 : dbType = snowflake
+01:07:47 : snowflake version = 6.10.2
+01:07:50 : successfully opened config file
+01:07:50 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:07:50 : dbType = snowflake
+01:07:50 : successfully opened config file
+01:07:50 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:07:50 : dbType = snowflake
+01:07:50 : successfully opened config file
+01:07:50 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:07:50 : dbType = snowflake
+01:07:50 : successfully opened config file
+01:07:50 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:07:50 : dbType = snowflake
+01:07:51 : snowflake version = 6.10.2
+01:07:52 : snowflake version = 6.10.2
+01:07:52 : snowflake version = 6.10.2
+01:07:52 : snowflake version = 6.10.2
+01:17:18 : successfully opened config file
+01:17:18 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:17:18 : dbType = snowflake
+01:17:20 : snowflake version = 6.10.2
+01:17:23 : successfully opened config file
+01:17:23 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:17:23 : dbType = snowflake
+01:17:23 : successfully opened config file
+01:17:23 : successfully opened config file
+01:17:23 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:17:23 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:17:23 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:17:23 : dbType = snowflake
+01:17:23 : dbType = snowflake
+01:17:23 : dbType = snowflake
+01:17:24 : snowflake version = 6.10.2
+01:17:24 : snowflake version = 6.10.2
+01:17:24 : snowflake version = 6.10.2
+01:17:24 : snowflake version = 6.10.2
+01:30:14 : successfully opened config file
+01:30:14 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:30:14 : dbType = snowflake
+01:30:16 : snowflake version = 6.10.2
+01:30:18 : successfully opened config file
+01:30:18 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:30:18 : dbType = snowflake
+01:30:18 : successfully opened config file
+01:30:18 : successfully opened config file
+01:30:18 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:30:18 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:30:18 : dbType = snowflake
+01:30:18 : dbType = snowflake
+01:30:19 : successfully opened config file
+01:30:19 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:30:19 : dbType = snowflake
+01:30:20 : snowflake version = 6.10.2
+01:30:20 : snowflake version = 6.10.2
+01:30:20 : snowflake version = 6.10.2
+01:30:20 : snowflake version = 6.10.2
+01:39:48 : successfully opened config file
+01:39:48 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:39:48 : dbType = snowflake
+01:39:50 : snowflake version = 6.10.2
+01:39:52 : successfully opened config file
+01:39:52 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:39:52 : dbType = snowflake
+01:39:52 : successfully opened config file
+01:39:52 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:39:52 : dbType = snowflake
+01:39:52 : successfully opened config file
+01:39:52 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:39:52 : dbType = snowflake
+01:39:52 : successfully opened config file
+01:39:52 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:39:52 : dbType = snowflake
+01:39:54 : snowflake version = 6.10.2
+01:39:55 : snowflake version = 6.10.2
+01:39:55 : snowflake version = 6.10.2
+01:39:55 : snowflake version = 6.10.2
+01:42:17 : successfully opened config file
+01:42:17 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:42:17 : dbType = snowflake
+01:42:20 : snowflake version = 6.10.2
+01:42:22 : successfully opened config file
+01:42:22 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:42:22 : dbType = snowflake
+01:42:22 : successfully opened config file
+01:42:22 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:42:22 : dbType = snowflake
+01:42:22 : successfully opened config file
+01:42:22 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:42:22 : dbType = snowflake
+01:42:22 : successfully opened config file
+01:42:22 : {'dbName': 'DB03_SF', 'dbType': 'snowflake', 'auth': {'user': 'nuzhaanam', 'password': 'Akashi7@#', 'account': 'ht68436.west-us-2.azure', 'default-wh': 'COMPUTE_WH', 'default-db': 'APISERO', 'default-schema': 'DEMO'}}
+01:42:22 : dbType = snowflake
+01:42:24 : snowflake version = 6.10.2
+01:42:24 : snowflake version = 6.10.2
+01:42:24 : snowflake version = 6.10.2
+01:42:24 : snowflake version = 6.10.2

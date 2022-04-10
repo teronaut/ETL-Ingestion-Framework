@@ -7,5 +7,14 @@
         "DEFAULT_WH":"COMPUTE_WH",
         "DEFAULT_DB":"OYO",
         "DEFAULT_SCHEMA":"USERS"
+    },
+    "APISERO" : 
+    {
+        "CONFIG_FILE" :"config/tero_edl_ingest.json",
+        "CONTROL_TABLE":"control/INGEST.csv",
+        "TGT_CON_NAME":"DB03_SF",
+        "DEFAULT_WH":"COMPUTE_WH",
+        "DEFAULT_DB":"APISERO",
+        "DEFAULT_SCHEMA":"DEMO"
     }
 }

@@ -22,6 +22,18 @@
       "default-db":"OYO",
       "default-schema": "USERS"
     }
+  },
+  {
+    "dbName":"DB03_SF",
+    "dbType": "snowflake",
+    "auth": {
+      "user": "nuzhaanam",
+      "password": "Akashi7@#",
+      "account": "ht68436.west-us-2.azure",
+      "default-wh":"COMPUTE_WH",
+      "default-db":"APISERO",
+      "default-schema": "DEMO"
+    }
   }
 ]
 }

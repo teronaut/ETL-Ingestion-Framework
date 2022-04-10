@@ -1,6 +1,10 @@
 from ddlgenerator.ddlgenerator import Table
 
+import re
 
+str = 'aaa@gmail.com'
+
+print(re.sub('[a-z]*@', 'ApD@', str))
 # import csv
 # file = open('control/ingest.csv')
 # csvreader = csv.DictReader(file)
@@ -11,12 +15,18 @@ from ddlgenerator.ddlgenerator import Table
 # print(row)
 # file.close()
 
+ddt1=[]
+menu = Table('../bucket/common/course.csv',table_name='course')
+ddl = menu.ddl('mysql')
+inserts = menu.inserts('mysql')
+all_sql = menu.sql('mysql', inserts=True)
+ddt1.append(ddl)
+print(ddt1)
+print(ddl)
 
-# menu = Table('../bucket/common/groups.csv',table_name='GRP')
-# ddl = menu.ddl('postgres')
-# inserts = menu.inserts('mysql')
-# all_sql = menu.sql('mysql', inserts=True)
-# print(ddl)
+print(re.sub(r"\t+_*", '', ddl))
+print(re.sub("/\t+/g", '', ddl))
+
 
 # table = Table([{"Name": "Alfred", "species": "wart hog", "kg": 22}])
 # sql = table.sql('postgresql', inserts=True)
@@ -47,31 +57,31 @@ from ddlgenerator.ddlgenerator import Table
 
 
 
-import random
-import multiprocessing
+# import random
+# import multiprocessing
 
 
-NUM_PROC = 2
+# NUM_PROC = 2
 
 
-def append_to_list(lst, num_items):
-    for n in random.sample(range(20000000), num_items):
-        lst.append(n)
+# def append_to_list(lst, num_items):
+#     for n in random.sample(range(20000000), num_items):
+#         lst.append(n)
 
 
-if __name__ == "__main__":
-	jobs = []
+# if __name__ == "__main__":
+# 	jobs = []
 
-	for i in range(NUM_PROC):
-		process = multiprocessing.Process(
-			target=append_to_list, 
-		    args=([], 10000000)
-		)
-		jobs.append(process)
+# 	for i in range(NUM_PROC):
+# 		process = multiprocessing.Process(
+# 			target=append_to_list, 
+# 		    args=([], 10000000)
+# 		)
+# 		jobs.append(process)
 
-	for j in jobs:
-		j.start()
+# 	for j in jobs:
+# 		j.start()
 
-	for j in jobs:
-		j.join()
+# 	for j in jobs:
+# 		j.join()
 
