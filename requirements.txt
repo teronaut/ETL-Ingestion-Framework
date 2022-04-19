@@ -2,8 +2,7 @@ asn1crypto==1.5.1
 beautifulsoup4==4.11.0    
 certifi==2021.10.8        
 cffi==1.15.0
-charset-normalizer==2.0.12
-cryptography==36.0.2      
+charset-normalizer==2.0.12    
 data-dispenser==0.2.5.1   
 dateutils==0.6.12
 ddlgenerator==0.1.9
