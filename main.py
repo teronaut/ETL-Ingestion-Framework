@@ -138,12 +138,13 @@ def mjEdlIngest(batch):
 
 
 import multiprocessing
-batch='EVERY_MINUTE3'
+# batch='EVERY_MINUTE3'
 # global cur
 initEnv('APISERO',environmentVariables)
 if __name__ == "__main__":
     # initEnv('DEV_AZURE_WEST',environmentVariables)
-    mjEdlIngest(batch)
+    # mjEdlIngest(batch)
+    pass
 
 	
 # while True:

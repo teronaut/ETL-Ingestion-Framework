@@ -4,11 +4,9 @@ import random
 import multiprocessing
 import main
 import multiprocessing
+import batches
 
-# batch1='EVERY_MINUTE1'
-batch2='EVERY_MINUTE2'
-
-NUM_PROC = [batch2]
+NUM_PROC =batches.NUM_PROC
 
 def runjob(func,arg):
 	jobs = []
@@ -27,6 +25,5 @@ def runjob(func,arg):
 
 
 if __name__ == "__main__":
-	while True:
 		runjob(main.mjEdlIngest,NUM_PROC)
 
